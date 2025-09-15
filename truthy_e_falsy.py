@@ -28,3 +28,5 @@ print(f'{flutuante=}', falsy(flutuante))
 print(f'{nada=}', falsy(nada))
 print(f'{falso=}', falsy(falso))
 print(f'{intervalo=}', falsy(intervalo))
+
+dir(falso)
