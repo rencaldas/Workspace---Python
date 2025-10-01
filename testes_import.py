@@ -5,6 +5,9 @@
 # Desvantagens: nomes grandes
 # import sys
 
+print('hello world')
+import testeimport_modulo
+
 # platform = 'A MINHA'
 # print(sys.platform)
 # print(platform)
