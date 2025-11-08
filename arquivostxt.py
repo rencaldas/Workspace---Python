@@ -1,0 +1,1 @@
+caminho_arquivo = 'Lista de Compras.txt'
